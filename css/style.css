@@ -489,12 +489,13 @@ flex-direction: column;
 
 
 
-.entertainment-hub { padding: 4rem 8%; background: #1c2651; color: white; min-height: 80vh; }
+.entertainment-hub { padding: 4rem 8%; background: #4f3fbd; color: rgb(246, 242, 242); min-height: 80vh; }
 
 .ent-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 30px;
+   
     margin-top: 50px;
 }
 
